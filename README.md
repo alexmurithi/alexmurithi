@@ -14,12 +14,14 @@ Besides that I am a frontend developer focusing in React.js and Material-UI
 ![Azure Web Services](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alexmurithi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexmurithi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmurithi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexmurithi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexmurithi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexmurithi&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexmurithi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexmurithi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexmurithi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexmurithi&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/alexmurithi/github-profile-trophy#about-rank)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
